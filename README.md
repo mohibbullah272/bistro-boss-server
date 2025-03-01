@@ -38,7 +38,7 @@ Method	Endpoint	Description
 - GET	/api/users	Get all users (Admin)
 - POST	/api/users/signup	Register a new user
 - POST	/api/users/login	Authenticate user
-##🖥️ Usage
+  # 🖥️ Usage
 ### Users can:
 - Browse the menu
 - Place orders
